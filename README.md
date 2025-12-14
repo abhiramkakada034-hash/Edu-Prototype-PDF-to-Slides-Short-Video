@@ -1,3 +1,7 @@
+# One-Sentence Architecture
+		PDF → Text Extraction (pdfplumber) → Key Points & Summarization (LangChain + Groq LLM) → Visual Selection/Generation (Pillow + local icons) → Slide Assembly (python-pptx) → Video Generation (MoviePy + pyttsx3 TTS)
+
+
 # Setup and Dependencies
 
 1. Clone the repositorytextgit clone https://github.com/yourusername/infooware-edu-prototype.git
