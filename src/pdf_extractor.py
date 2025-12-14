@@ -1,4 +1,3 @@
-# src/pdf_extractor.py
 from dotenv import load_dotenv
 import pdfplumber
 from langchain_groq import ChatGroq
