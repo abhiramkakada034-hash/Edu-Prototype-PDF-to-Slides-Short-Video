@@ -1,4 +1,3 @@
-# src/summarizer.py
 from langchain_groq import ChatGroq
 from langchain_core.prompts import PromptTemplate
 from langchain_classic.output_parsers.structured import StructuredOutputParser, ResponseSchema

@@ -1,4 +1,4 @@
-# src/visual_selector.py
+
 from PIL import Image, ImageDraw
 import os
 import random

@@ -1,4 +1,4 @@
-# src/video_generator.py
+
 from moviepy import ImageClip, concatenate_videoclips, AudioFileClip, vfx
 import pyttsx3
 import os
