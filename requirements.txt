@@ -1,0 +1,12 @@
+# requirements.txt
+pdfplumber
+langchain
+langchain-groq
+python-pptx
+pillow
+pyttsx3
+moviepy
+nltk
+sentence-transformers
+torch  # For sentence-transformers
+langchain-community
