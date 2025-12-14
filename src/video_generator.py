@@ -28,7 +28,7 @@ def generate_video(slides_path, slides_data, output_path, outdir):
 
         # Fonts
         try:
-            title_font = ImageFont.truetype("arial.ttf", 60)
+            title_font = ImageFont.truetype("arial.ttf", 50)
             bullet_font = ImageFont.truetype("arial.ttf", 40)
         except IOError:
             title_font = ImageFont.load_default()
